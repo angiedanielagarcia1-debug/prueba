@@ -18,7 +18,7 @@ SECRET_KEY = 'django-insecure-#^wh7s#z^gtl*-emy_098o6um-5gt^y^-9hcue^_4&bxi8=i$n
 DEBUG = True
 ALLOWED_HOSTS = ['*']
 CSRF_TRUSTED_ORIGINS = [
-    'https://prueba-3vfg.onrender.com',
+    'https://prueba-1-8las.onrender.com',
 ]
 
 # APPLICATIONS
